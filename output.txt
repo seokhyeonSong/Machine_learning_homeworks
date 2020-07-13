@@ -1,0 +1,114 @@
+difference is  114
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+8068         f           s         y  ...                 u          v       d
+3408         b           y         p  ...                 r          v       m
+
+[2 rows x 22 columns]
+difference is  143
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+5957         f           s         n  ...                 w          v       l
+4848         x           y         e  ...                 w          v       l
+
+[2 rows x 22 columns]
+difference is  30
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+817          x           s         w  ...                 w          n       g
+8109         f           s         e  ...                 w          v       l
+
+[2 rows x 22 columns]
+difference is  159
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+3731         x           y         n  ...                 w          v       l
+4438         x           s         g  ...                 k          s       d
+
+[2 rows x 22 columns]
+difference is  81
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+1035         k           y         n  ...                 w          v       p
+3232         f           f         e  ...                 k          y       d
+
+[2 rows x 22 columns]
+difference is  77
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+1854         f           f         g  ...                 h          y       d
+75           x           f         g  ...                 h          v       p
+
+[2 rows x 22 columns]
+difference is  39
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+275          f           s         w  ...                 h          s       u
+6346         k           s         n  ...                 w          v       l
+
+[2 rows x 22 columns]
+difference is  57
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+1898         x           y         n  ...                 w          v       d
+34           x           y         n  ...                 w          v       l
+
+[2 rows x 22 columns]
+difference is  94
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+5723         x           y         e  ...                 n          y       d
+852          f           y         g  ...                 h          y       g
+
+[2 rows x 22 columns]
+difference is  31
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+3430         f           f         e  ...                 n          v       d
+7827         f           f         g  ...                 h          y       g
+
+[2 rows x 22 columns]
+difference is  71
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+4699         b           s         y  ...                 k          n       g
+2618         x           f         g  ...                 k          v       d
+
+[2 rows x 22 columns]
+difference is  78
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+2576         x           f         g  ...                 h          y       p
+135          x           s         e  ...                 w          v       l
+
+[2 rows x 22 columns]
+difference is  52
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+7632         f           y         g  ...                 h          y       d
+900          f           y         y  ...                 h          y       p
+
+[2 rows x 22 columns]
+difference is  112
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+7537         f           f         n  ...                 k          v       d
+3208         x           f         g  ...                 h          y       p
+
+[2 rows x 22 columns]
+difference is  104
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+6137         x           y         n  ...                 k          v       d
+1057         x           s         n  ...                 w          v       p
+
+[2 rows x 22 columns]
+difference is  44
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+1801         f           s         w  ...                 h          v       u
+7660         k           s         n  ...                 w          v       p
+
+[2 rows x 22 columns]
+difference is  150
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+3733         x           y         n  ...                 w          c       d
+1365         x           f         y  ...                 h          v       p
+
+[2 rows x 22 columns]
+difference is  14
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+7735         x           y         g  ...                 h          y       g
+23           x           s         w  ...                 k          s       g
+
+[2 rows x 22 columns]
+difference is  92
+     cap-shape cap-surface cap-color  ... spore-print-color population habitat
+2947         f           y         y  ...                 h          v       p
+1440         f           s         n  ...                 w          v       l
+
+[2 rows x 22 columns]
